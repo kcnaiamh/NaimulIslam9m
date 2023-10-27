@@ -15,7 +15,7 @@ A post-exploitation tool in C that captures the victim’s internet traffic and 
 Repo Link: https://github.com/NaimulIslam9m/Pcap-Sender-C2
 
 ## Fresh Linux Install Scripts
-about
+Some scripts I've created to automate the repetitive tasks after installing new linux distro.
 
 Repo Link: https://github.com/NaimulIslam9m/Fresh-Linux-Install-Scripts
 
@@ -25,7 +25,7 @@ A Python CLI utility for checking real time submission count of each problem acc
 Repo Link: https://github.com/NaimulIslam9m/Codeforces-Submission-Counter
 
 ## Snake Game
-about
+This is a simple Snake game implemented in C++ using the GLUT (OpenGL Utility Toolkit) library for graphics. 
 
 Repo Link: https://github.com/NaimulIslam9m/Snake-Game
 
@@ -35,52 +35,52 @@ A Java Swing GUI application, which seamlessly converts LeetCode test cases into
 Repo Link: https://github.com/NaimulIslam9m/Leetcode_Helper
 
 ## Disas2Dbg
-about
+Convert address from disassembler to debugger or vice versa. Handy tool if ASLR is not disabled.
 
 Repo Link: https://github.com/NaimulIslam9m/disas2dbg
 
 ## Scripts
-about
+Some scripts I created to automate repetitive tasks. Used bash/python.
 
 Repo Link: https://github.com/NaimulIslam9m/scripts
 
 ## Cybersecurity Companies in Bangladesh
-about
+List of tech companies to help security professionals to find jobs.
 
 Repo Link: https://github.com/NaimulIslam9m/cybersecurity-companies-in-bangladesh
 
 ## Small Go Tools
-about
+Started to make tools with Golang when I was learning it.
 
 Repo Link: https://github.com/NaimulIslam9m/Small-Go-Tools
 
 ## DSA Templates
-about
+DSA templates when I used to do competitive programming.
 
 Repo Link: https://github.com/NaimulIslam9m/DSA_Templates
 
 ## Terminal File Explorer
-about
+A simple CLI file explorer tool. Created using C just by calling syscalls directly.
 
 Reop Link: https://github.com/NaimulIslam9m/Terminal-File-Explorer
 
 ## Terminator Configuration
-about
+Configuration script of terminator so that one can use Terminator just like Guake.
 
 Repo Link: https://github.com/NaimulIslam9m/terminator_configuaration
 
 ## Testcase Parser
-about
+A tool to parse testcase of a problem from competitive programming website using competitive companion and valided the solution with testcase.
 
 Repo Link: https://github.com/NaimulIslam9m/Testcase-Parser
 
 ## Shodan Scripts
-about
+Written script when I was learning shodan.
 
 Repo Link: https://github.com/NaimulIslam9m/Shodan_Scripts
 
 ## Stress Testing
-about
+Written a tool to do stress test my competitive programming solution on contest time.
 
 Repo Link: https://github.com/NaimulIslam9m/Stress_Testing
 
