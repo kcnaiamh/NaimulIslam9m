@@ -5,12 +5,12 @@
 > Todo: Update About
 
 ## Codeforces Progress
-about
+A Java-based Android app that uses Codeforces API to track user progress. Emphasized efficient data management using SQLite. Used a custom KPM algorithm for progress assessment, achieving an 85% accuracy rate.
 
 Repo Link: https://github.com/NaimulIslam9m/Codeforces-Progress
 
 ## Pcap Sender C2
-about
+A post-exploitation tool in C that captures the victim’s internet traffic and sends it to the attacker's C2 server.
 
 Repo Link: https://github.com/NaimulIslam9m/Pcap-Sender-C2
 
@@ -20,7 +20,7 @@ about
 Repo Link: https://github.com/NaimulIslam9m/Fresh-Linux-Install-Scripts
 
 ## Codeforces Submission Counter
-about
+A Python CLI utility for checking real time submission count of each problem according to rank of participants. Used postgreSQL as a database.
 
 Repo Link: https://github.com/NaimulIslam9m/Codeforces-Submission-Counter
 
@@ -30,7 +30,7 @@ about
 Repo Link: https://github.com/NaimulIslam9m/Snake-Game
 
 ## Leetcode Helper
-about
+A Java Swing GUI application, which seamlessly converts LeetCode test cases into locally adaptable formats.
 
 Repo Link: https://github.com/NaimulIslam9m/Leetcode_Helper
 
@@ -71,12 +71,20 @@ Repo Link: https://github.com/NaimulIslam9m/terminator_configuaration
 
 ## Testcase Parser
 about
+
 Repo Link: https://github.com/NaimulIslam9m/Testcase-Parser
 
 ## Shodan Scripts
 about
+
 Repo Link: https://github.com/NaimulIslam9m/Shodan_Scripts
 
 ## Stress Testing
 about
+
 Repo Link: https://github.com/NaimulIslam9m/Stress_Testing
+
+## SIEM Home Lab
+Configured the ElasticSearch, Logstash, Kibana (ELK stack) on a Debina 12 server as the main hub for storing and analyzing logs. Used one Windows 10 virtual machine as agent and configured Elastic Agent for collecting logs. Used VMware workstation for virtualization.
+
+Video Link: https://youtu.be/MbbYuvlQHW8
