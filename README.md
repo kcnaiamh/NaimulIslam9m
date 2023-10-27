@@ -2,7 +2,6 @@
 
 
 # Projects
-> Todo: Update About
 
 ## Codeforces Progress
 A Java-based Android app that uses Codeforces API to track user progress. Emphasized efficient data management using SQLite. Used a custom KPM algorithm for progress assessment, achieving an 85% accuracy rate.
